@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    background-image: url(Trainer-Campaign-Banner-Image2.jpg);
+    background-size: cover;
+}
+
+header {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+
+}
+.main
+{
+ 
+ height: 200px;
+ color: rgb(0, 0, 0);
+ background: transparent;
+ color: white;
+}
+
+.searchbox{
+margin-left: 82%;
+display: flex;
+
+}
+
+.icon{
+    text-align: right;
+margin-right: 100px;
+margin-bottom: 40px;
+margin-top: 0%;
+
+}
+input{
+    height: 30px;
+    border-radius: 25px;
+    border-color: aquamarine;
+    align-items: right;
+
+}
+input:hover{
+    border-color:rgb(214, 25, 136);
+    border-radius: 20px;
+    border-width:  5px;
+}
+.left{ 
+    display: flex;
+    margin-right: 90%;
+ 
+}
+header{
+    height: 130px;
+}
+footer{
+height: 40px;
+margin-top: 15%;
+}
